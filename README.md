@@ -1,2 +1,0 @@
-# rabbit_challenge_task
-jupyter notebookで書いたが、うまく表示できない箇所が複数あるためPDFを見てください。
